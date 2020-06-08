@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.0760e0290f390e4d8dab6fdeee399223.js"
+  "precache-manifest.4bda3422d797dadd8c5d3c5e89311fe0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-bootwind-template"});
