@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fdafa30c3d555279d01",
+    "revision": "48ac6daf5240b700628f",
     "url": "css/app.4d0388dd.css"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/c-breadcrumb.75fa275c.css"
   },
   {
-    "revision": "042f354c6c2f50873c52",
+    "revision": "bac96d50e1de2b1e3049",
     "url": "css/c-button.75fa275c.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template-sm.cf2c8917.png"
   },
   {
-    "revision": "89c1519bb01c8f05f424790c453c79b0",
+    "revision": "0cee518c6fcdd64efc3f100e3f255989",
     "url": "index.html"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/about-legacy.c571d943.js"
   },
   {
-    "revision": "8fdafa30c3d555279d01",
-    "url": "js/app-legacy.cc9e207c.js"
+    "revision": "48ac6daf5240b700628f",
+    "url": "js/app-legacy.b08bf179.js"
   },
   {
     "revision": "708d458a17374f20d367",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/c-breadcrumb-legacy.3e4f2d23.js"
   },
   {
-    "revision": "042f354c6c2f50873c52",
-    "url": "js/c-button-legacy.43f932f3.js"
+    "revision": "bac96d50e1de2b1e3049",
+    "url": "js/c-button-legacy.dfbb965b.js"
   },
   {
     "revision": "1ddc8a6412ae542a392b",
