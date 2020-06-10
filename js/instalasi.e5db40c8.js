@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["instalasi"],{"36ea":function(t,l,s){"use strict";s.r(l);var e=function(){var t=this,l=t.$createElement,s=t._self._c||l;return s("div",{staticClass:"flex flex-wrap text-center lg:px-56 mt-5"},[s("h1",{staticClass:"w-full px-2 pt-2 font-bold text-3xl"},[t._v("Install Tailwind Css in Vue JS")]),s("right-menu",{staticClass:"w-full shadow-sm p-2",attrs:{youtube:"vaiFX26BSZs",next:"/component/alert",back:"/"}})],1)},a=[],n=s("2877"),i={},u=Object(n["a"])(i,e,a,!1,null,null,null);l["default"]=u.exports}}]);
-//# sourceMappingURL=instalasi-legacy.1d71782e.js.map
+//# sourceMappingURL=instalasi.e5db40c8.js.map
