@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "README.md"
   },
   {
-    "revision": "66490698f19161fb17ce",
-    "url": "css/app.282809fe.css"
+    "revision": "e39f7db311038674e9f9",
+    "url": "css/app.2118a0af.css"
   },
   {
     "revision": "715fde1130293d4df743",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template.847ee45c.png"
   },
   {
-    "revision": "021a571c371ea1792cc2fc68009b50c1",
+    "revision": "78d386ed64b7169b286adcb837b028dc",
     "url": "index.html"
   },
   {
-    "revision": "66490698f19161fb17ce",
-    "url": "js/app.5e69180c.js"
+    "revision": "e39f7db311038674e9f9",
+    "url": "js/app.3367df8f.js"
   },
   {
     "revision": "1b025ce5a051db7fdb2b",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/docs.1ea52e71.js"
   },
   {
-    "revision": "b954f600a81c8a84b8f3",
-    "url": "js/icons.860b6ae2.js"
+    "revision": "b9766f0c6621bf9c332c",
+    "url": "js/icons.16a9706c.js"
   },
   {
     "revision": "960325aea2413ca0971b",
