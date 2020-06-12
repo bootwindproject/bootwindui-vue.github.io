@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "684be46579976955ef73",
-    "url": "css/app.2118a0af.css"
+    "revision": "c6b160f422e0072db793",
+    "url": "css/app.80c3f6b7.css"
   },
   {
-    "revision": "715fde1130293d4df743",
+    "revision": "7ee5bf542ab104f95869",
     "url": "css/docs.4a9da0b7.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template.847ee45c.png"
   },
   {
-    "revision": "43438884375d92a2623aa99e4323505c",
+    "revision": "1d873224863e8b563df90c5810695558",
     "url": "index.html"
   },
   {
-    "revision": "684be46579976955ef73",
-    "url": "js/app-legacy.b394960b.js"
+    "revision": "c6b160f422e0072db793",
+    "url": "js/app-legacy.a1a427fa.js"
   },
   {
     "revision": "1b025ce5a051db7fdb2b",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/c-button-legacy.a6285cdc.js"
   },
   {
-    "revision": "6739892f74f1c9aef2f3",
-    "url": "js/c-cards-legacy.825470ca.js"
+    "revision": "2a3afcae0a132b4c64a2",
+    "url": "js/c-cards-legacy.a34a82fe.js"
   },
   {
     "revision": "071419a9cc639b527365",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors-legacy.6c1d8db1.js"
   },
   {
-    "revision": "715fde1130293d4df743",
-    "url": "js/docs-legacy.1ea52e71.js"
+    "revision": "7ee5bf542ab104f95869",
+    "url": "js/docs-legacy.add0f803.js"
   },
   {
     "revision": "b9766f0c6621bf9c332c",
