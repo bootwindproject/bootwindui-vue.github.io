@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ecf21b6ce7e18000fdd",
-    "url": "css/app.f06f6afc.css"
+    "revision": "482c5f78599bbbbd894a",
+    "url": "css/app.282809fe.css"
   },
   {
-    "revision": "96021829eb804b17cefb",
+    "revision": "715fde1130293d4df743",
     "url": "css/docs.4a9da0b7.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template.847ee45c.png"
   },
   {
-    "revision": "c44ad425de8df89f6ab37871296c486c",
+    "revision": "8c05586d74af23fde765fc39abb86e24",
     "url": "index.html"
   },
   {
-    "revision": "3ecf21b6ce7e18000fdd",
-    "url": "js/app-legacy.cc2d2c38.js"
+    "revision": "482c5f78599bbbbd894a",
+    "url": "js/app-legacy.220e981e.js"
   },
   {
     "revision": "1b025ce5a051db7fdb2b",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors-legacy.6c1d8db1.js"
   },
   {
-    "revision": "96021829eb804b17cefb",
-    "url": "js/docs-legacy.62fae50b.js"
+    "revision": "715fde1130293d4df743",
+    "url": "js/docs-legacy.1ea52e71.js"
   },
   {
     "revision": "b954f600a81c8a84b8f3",
