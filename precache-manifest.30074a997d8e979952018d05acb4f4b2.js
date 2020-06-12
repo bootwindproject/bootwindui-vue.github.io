@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "README.md"
   },
   {
-    "revision": "8bdc0be1ac404029af6f",
+    "revision": "e61fc64f95d07c32b9b9",
     "url": "css/app.80c3f6b7.css"
   },
   {
-    "revision": "7ee5bf542ab104f95869",
+    "revision": "78a2d7544d3cb8f9de7e",
     "url": "css/docs.4a9da0b7.css"
   },
   {
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/jonathan.jpg"
   },
   {
-    "revision": "847ee45cb40581a27c0878728ff391d0",
-    "url": "img/logo-bootwind-template.847ee45c.png"
+    "revision": "a88fe6f4940e5b63402fb7152b390cb1",
+    "url": "img/logo-bootwind-template.a88fe6f4.png"
   },
   {
-    "revision": "171088f77b80050485b4faef3ec7f5cf",
+    "revision": "1b48d58af6dc2fa12818616ea4e975b5",
     "url": "index.html"
   },
   {
-    "revision": "8bdc0be1ac404029af6f",
-    "url": "js/app.98f734ec.js"
+    "revision": "e61fc64f95d07c32b9b9",
+    "url": "js/app.5fc1122a.js"
   },
   {
     "revision": "1b025ce5a051db7fdb2b",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.6c1d8db1.js"
   },
   {
-    "revision": "7ee5bf542ab104f95869",
-    "url": "js/docs.add0f803.js"
+    "revision": "78a2d7544d3cb8f9de7e",
+    "url": "js/docs.d4cf00bc.js"
   },
   {
     "revision": "b9766f0c6621bf9c332c",
