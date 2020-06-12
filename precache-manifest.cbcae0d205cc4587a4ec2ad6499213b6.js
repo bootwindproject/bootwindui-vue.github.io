@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fd212104841a9c4e307",
+    "revision": "3ecf21b6ce7e18000fdd",
     "url": "css/app.f06f6afc.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template.847ee45c.png"
   },
   {
-    "revision": "7b8ff3a8d13a64680761521e0fe6a95d",
+    "revision": "c44ad425de8df89f6ab37871296c486c",
     "url": "index.html"
   },
   {
-    "revision": "3fd212104841a9c4e307",
-    "url": "js/app-legacy.34a11a61.js"
+    "revision": "3ecf21b6ce7e18000fdd",
+    "url": "js/app-legacy.cc2d2c38.js"
   },
   {
     "revision": "1b025ce5a051db7fdb2b",
