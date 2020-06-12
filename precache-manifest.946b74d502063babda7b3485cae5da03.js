@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d82a7cfe2afe1972266",
-    "url": "css/app.80c3f6b7.css"
+    "revision": "6ea81446ff88740aa694",
+    "url": "css/app.58875eaf.css"
   },
   {
-    "revision": "78a2d7544d3cb8f9de7e",
+    "revision": "6df0b20fa2a4fa09f233",
     "url": "css/docs.4a9da0b7.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template.a88fe6f4.png"
   },
   {
-    "revision": "47a5d6ba49828b6a9678b49481a28f68",
+    "revision": "b54171f7ae8ee6e53cb31ec0699e02c0",
     "url": "index.html"
   },
   {
-    "revision": "6d82a7cfe2afe1972266",
-    "url": "js/app-legacy.6f63ee0e.js"
+    "revision": "6ea81446ff88740aa694",
+    "url": "js/app-legacy.8b2d1880.js"
   },
   {
     "revision": "1b025ce5a051db7fdb2b",
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors-legacy.6c1d8db1.js"
   },
   {
-    "revision": "78a2d7544d3cb8f9de7e",
-    "url": "js/docs-legacy.d4cf00bc.js"
+    "revision": "6df0b20fa2a4fa09f233",
+    "url": "js/docs-legacy.b57d6684.js"
   },
   {
     "revision": "b9766f0c6621bf9c332c",
     "url": "js/icons-legacy.16a9706c.js"
   },
   {
-    "revision": "960325aea2413ca0971b",
-    "url": "js/instalasi-legacy.4ccde0d0.js"
+    "revision": "38da7f351d0b2190cd6a",
+    "url": "js/instalasi-legacy.83d8fd9c.js"
   },
   {
     "revision": "47b1e39815d3513b75ebbdccc8896f71",
