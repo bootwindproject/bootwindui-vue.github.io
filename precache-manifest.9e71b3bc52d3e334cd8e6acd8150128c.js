@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ea81446ff88740aa694",
-    "url": "css/app.58875eaf.css"
+    "revision": "15f27cfb6abc1abaf0bd",
+    "url": "css/app.32987512.css"
   },
   {
-    "revision": "6df0b20fa2a4fa09f233",
-    "url": "css/docs.4a9da0b7.css"
+    "revision": "806267f42cf6963edf86",
+    "url": "css/docs.fcc156f6.css"
   },
   {
-    "revision": "a88fe6f4940e5b63402fb7152b390cb1",
-    "url": "img/logo-bootwind-template.a88fe6f4.png"
+    "revision": "155e1374e427bfc9a6d9d6e58865c415",
+    "url": "img/logo-bootwind-template.155e1374.png"
   },
   {
-    "revision": "b54171f7ae8ee6e53cb31ec0699e02c0",
+    "revision": "c103d036624ced8e078185cb50754436",
     "url": "index.html"
   },
   {
-    "revision": "6ea81446ff88740aa694",
-    "url": "js/app-legacy.8b2d1880.js"
+    "revision": "15f27cfb6abc1abaf0bd",
+    "url": "js/app-legacy.32e3d2a2.js"
   },
   {
-    "revision": "1b025ce5a051db7fdb2b",
-    "url": "js/c-alert-legacy.69e7ed87.js"
+    "revision": "51af226db86ef2973304",
+    "url": "js/c-alert-legacy.6fe6af65.js"
   },
   {
     "revision": "2a988b054bfb72f0d421",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/c-button-legacy.a6285cdc.js"
   },
   {
-    "revision": "2a3afcae0a132b4c64a2",
-    "url": "js/c-cards-legacy.a34a82fe.js"
+    "revision": "78b5b8475f8b7d89edab",
+    "url": "js/c-cards-legacy.f6432cdf.js"
   },
   {
     "revision": "071419a9cc639b527365",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors-legacy.6c1d8db1.js"
   },
   {
-    "revision": "6df0b20fa2a4fa09f233",
-    "url": "js/docs-legacy.b57d6684.js"
+    "revision": "806267f42cf6963edf86",
+    "url": "js/docs-legacy.5af0ffed.js"
   },
   {
-    "revision": "b9766f0c6621bf9c332c",
-    "url": "js/icons-legacy.16a9706c.js"
+    "revision": "7a06a7b6122cf37990e4",
+    "url": "js/icons-legacy.2de6b5cb.js"
   },
   {
     "revision": "38da7f351d0b2190cd6a",
