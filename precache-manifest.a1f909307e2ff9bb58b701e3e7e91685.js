@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "README.md"
   },
   {
-    "revision": "fae71fe4fe2a35cb8d14",
-    "url": "css/app.fa0e082d.css"
+    "revision": "6f3f9c0641be4fc2241a",
+    "url": "css/app.f0c373c2.css"
   },
   {
-    "revision": "2d3df6f1070cc85e660c",
-    "url": "css/docs.fcc156f6.css"
+    "revision": "6a694df8e76066db68b0",
+    "url": "css/docs.6746e085.css"
   },
   {
     "revision": "52068ad4652e1b3554e8d6dc46561c80",
@@ -28,44 +28,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/jonathan.jpg"
   },
   {
-    "revision": "155e1374e427bfc9a6d9d6e58865c415",
-    "url": "img/logo-bootwind-template.155e1374.png"
+    "revision": "d26e9f7ea6165e3ba3be53b3fdf46373",
+    "url": "img/logo-bootwind-template.d26e9f7e.png"
   },
   {
-    "revision": "a07a9bb0327d984c49064be0ef297fe4",
+    "revision": "7d8804eafaf8d8880fc7c51b9ecc05fe",
     "url": "index.html"
   },
   {
-    "revision": "fae71fe4fe2a35cb8d14",
-    "url": "js/app.d5919f54.js"
+    "revision": "6f3f9c0641be4fc2241a",
+    "url": "js/app.58e8f9a8.js"
   },
   {
-    "revision": "994ac1bd86620125a4e4",
-    "url": "js/c-alert.f8a11369.js"
+    "revision": "b0b08307a37c5b5f1786",
+    "url": "js/c-alert.e3ea2a22.js"
   },
   {
-    "revision": "813fdd5144914caa2cc2",
-    "url": "js/c-badge.b2ce72b2.js"
+    "revision": "51b3ff393abe17387bbc",
+    "url": "js/c-badge.b99b205d.js"
   },
   {
-    "revision": "0606276013381d087c48",
-    "url": "js/c-button.0872e82a.js"
+    "revision": "b6b0a7479edf062f5776",
+    "url": "js/c-button.fa7b3206.js"
   },
   {
     "revision": "086cce127a25819b1a68",
     "url": "js/c-cards.d9d3e5f2.js"
   },
   {
-    "revision": "61f388aa1d2b1462803c",
-    "url": "js/c-carousel.dfde7d36.js"
+    "revision": "eb56b2183d687e908372",
+    "url": "js/c-carousel.2bcdc781.js"
   },
   {
     "revision": "3d282d1b4a04aa61c001",
     "url": "js/chunk-vendors.6c1d8db1.js"
   },
   {
-    "revision": "2d3df6f1070cc85e660c",
-    "url": "js/docs.0d73fbb9.js"
+    "revision": "6a694df8e76066db68b0",
+    "url": "js/docs.2e8601ac.js"
   },
   {
     "revision": "b4776857379e7ef0b076",
@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/instalasi.fddb82e4.js"
   },
   {
-    "revision": "7bba00ccd758f73a2ee3380f5e59abd1",
+    "revision": "825242cafc02afa230d34adef6c4b157",
     "url": "manifest.json"
   },
   {
