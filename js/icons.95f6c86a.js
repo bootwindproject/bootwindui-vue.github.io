@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["icons"],{db54:function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("ul",{staticClass:"flex flex-wrap justify-center"},[e._v(" SVG Icons ")])])}],l=t("2877"),r={},u=Object(l["a"])(r,s,c,!1,null,null,null);n["default"]=u.exports}}]);
-//# sourceMappingURL=icons.e8e2d85b.js.map
+//# sourceMappingURL=icons.95f6c86a.js.map
