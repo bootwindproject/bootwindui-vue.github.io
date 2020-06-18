@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.a983b1eaed26e569cc254453488a6535.js"
+  "precache-manifest.9fb7e0484f5bf86b3d265bdd3674a856.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "Vue-Bootwind-Template"});
+workbox.core.setCacheNameDetails({prefix: "Bootwind-Template"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

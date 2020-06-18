@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "README.md"
   },
   {
-    "revision": "776b70252d690561d85a",
-    "url": "css/app.32987512.css"
+    "revision": "fae71fe4fe2a35cb8d14",
+    "url": "css/app.fa0e082d.css"
   },
   {
-    "revision": "806267f42cf6963edf86",
+    "revision": "2d3df6f1070cc85e660c",
     "url": "css/docs.fcc156f6.css"
   },
   {
@@ -32,51 +32,51 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template.155e1374.png"
   },
   {
-    "revision": "0e37c53b7a56fd52645af46e42c6ac80",
+    "revision": "a07a9bb0327d984c49064be0ef297fe4",
     "url": "index.html"
   },
   {
-    "revision": "776b70252d690561d85a",
-    "url": "js/app.2628c2a1.js"
+    "revision": "fae71fe4fe2a35cb8d14",
+    "url": "js/app.d5919f54.js"
   },
   {
-    "revision": "51af226db86ef2973304",
-    "url": "js/c-alert.6fe6af65.js"
+    "revision": "994ac1bd86620125a4e4",
+    "url": "js/c-alert.f8a11369.js"
   },
   {
-    "revision": "2a988b054bfb72f0d421",
-    "url": "js/c-badge.96f4e688.js"
+    "revision": "813fdd5144914caa2cc2",
+    "url": "js/c-badge.b2ce72b2.js"
   },
   {
-    "revision": "80080e77087e3f953ec0",
-    "url": "js/c-button.a6285cdc.js"
+    "revision": "0606276013381d087c48",
+    "url": "js/c-button.0872e82a.js"
   },
   {
-    "revision": "78b5b8475f8b7d89edab",
-    "url": "js/c-cards.f6432cdf.js"
+    "revision": "086cce127a25819b1a68",
+    "url": "js/c-cards.d9d3e5f2.js"
   },
   {
-    "revision": "071419a9cc639b527365",
-    "url": "js/c-carousel.877d64be.js"
+    "revision": "61f388aa1d2b1462803c",
+    "url": "js/c-carousel.dfde7d36.js"
   },
   {
     "revision": "3d282d1b4a04aa61c001",
     "url": "js/chunk-vendors.6c1d8db1.js"
   },
   {
-    "revision": "806267f42cf6963edf86",
-    "url": "js/docs.5af0ffed.js"
+    "revision": "2d3df6f1070cc85e660c",
+    "url": "js/docs.0d73fbb9.js"
   },
   {
-    "revision": "7a06a7b6122cf37990e4",
-    "url": "js/icons.2de6b5cb.js"
+    "revision": "b4776857379e7ef0b076",
+    "url": "js/icons.e4b875e9.js"
   },
   {
-    "revision": "38da7f351d0b2190cd6a",
-    "url": "js/instalasi.83d8fd9c.js"
+    "revision": "7afd16aedf912f762bbd",
+    "url": "js/instalasi.fddb82e4.js"
   },
   {
-    "revision": "47b1e39815d3513b75ebbdccc8896f71",
+    "revision": "7bba00ccd758f73a2ee3380f5e59abd1",
     "url": "manifest.json"
   },
   {
