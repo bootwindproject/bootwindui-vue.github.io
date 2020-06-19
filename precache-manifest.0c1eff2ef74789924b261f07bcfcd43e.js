@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "README.md"
   },
   {
-    "revision": "fb3ce9f116e9cb41a465",
-    "url": "css/app.f0ca3bd7.css"
+    "revision": "c240daaac86b56b81a5d",
+    "url": "css/app.8ee4dba1.css"
   },
   {
-    "revision": "b8bc5cd5ae26e23ca812",
-    "url": "css/docs.4f3d7f2b.css"
+    "revision": "21f3614152e8b7babf1d",
+    "url": "css/docs.e031290c.css"
   },
   {
     "revision": "52068ad4652e1b3554e8d6dc46561c80",
@@ -32,48 +32,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo-bootwind-template.d26e9f7e.png"
   },
   {
-    "revision": "440704bebc6afcd0ca8c2707305abe95",
+    "revision": "e83b21b22cc6d813e27cbe3433bd2b75",
     "url": "index.html"
   },
   {
-    "revision": "fb3ce9f116e9cb41a465",
-    "url": "js/app.f44a29eb.js"
+    "revision": "c240daaac86b56b81a5d",
+    "url": "js/app.1f0d3264.js"
   },
   {
-    "revision": "f58cc11d47cec3b9ac02",
-    "url": "js/c-alert.0b2d09cd.js"
+    "revision": "cf245b32c568e9c87b76",
+    "url": "js/c-alert.8866463e.js"
   },
   {
-    "revision": "40c58c882f5a9c09f417",
-    "url": "js/c-badge.c547d063.js"
+    "revision": "f367f9f759cd1c13e681",
+    "url": "js/c-badge.ad70803c.js"
   },
   {
-    "revision": "d435cf1cc4bb782fd95b",
-    "url": "js/c-button.477b470e.js"
+    "revision": "7b0850ad0e1c2c4d6846",
+    "url": "js/c-button.28f3d32c.js"
   },
   {
-    "revision": "72371b8ec86d4230ee01",
-    "url": "js/c-cards.73dcf3f3.js"
+    "revision": "66b07e55945f87366ad8",
+    "url": "js/c-cards.fa9c6f6f.js"
   },
   {
-    "revision": "75192e2d423da22d17a2",
-    "url": "js/c-carousel.3cc4af7b.js"
+    "revision": "a7c768f6d663a9a84611",
+    "url": "js/c-carousel.543707d9.js"
+  },
+  {
+    "revision": "c0c7217a5d8ae33dcbff",
+    "url": "js/c-collapse.b9bb3038.js"
+  },
+  {
+    "revision": "e0350bf022da3f50ad6c",
+    "url": "js/c-dropdown.378a513c.js"
   },
   {
     "revision": "553d94aaeaa875cbcfde",
     "url": "js/chunk-vendors.3eb30486.js"
   },
   {
-    "revision": "b8bc5cd5ae26e23ca812",
-    "url": "js/docs.12478bf8.js"
+    "revision": "21f3614152e8b7babf1d",
+    "url": "js/docs.c7510611.js"
   },
   {
     "revision": "da5a614e017368829f37",
     "url": "js/icons.95f6c86a.js"
   },
   {
-    "revision": "b3dc2869de9776d34c91",
-    "url": "js/instalasi.1a6e67c5.js"
+    "revision": "207784e4fe9ebbe8d20b",
+    "url": "js/instalasi.a0e58851.js"
   },
   {
     "revision": "8bb30e8a41c0f6ef4a189d771e325f32",
