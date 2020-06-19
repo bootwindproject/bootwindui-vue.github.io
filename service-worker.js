@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.0c1eff2ef74789924b261f07bcfcd43e.js"
+  "/precache-manifest.97a32814d5a29a5fc6ed4ec48c1751af.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Bootwind-Template"});
