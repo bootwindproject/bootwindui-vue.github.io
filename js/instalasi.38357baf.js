@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["instalasi"],{"824e":function(t,e,l){"use strict";l.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,l=t._self._c||e;return l("div",{staticClass:"flex flex-wrap text-center lg:px-56 mt-5"},[l("h1",{staticClass:"w-full px-2 pt-2 font-bold text-3xl"},[t._v("Get Started")])])}],a=l("2877"),r={},c=Object(a["a"])(r,n,s,!1,null,null,null);e["default"]=c.exports}}]);
+//# sourceMappingURL=instalasi.38357baf.js.map
