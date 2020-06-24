@@ -4,19 +4,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/README.md"
   },
   {
-    "revision": "7a954aae860ee297fcae",
+    "revision": "cb0f40b710f0d4291d2b",
     "url": "/css/app.42c33f0d.css"
   },
   {
-    "revision": "9d22c9b9461a7832e3e0",
+    "revision": "6fc2430bad11b1a992f3",
     "url": "/css/dashboard-1.090522ff.css"
   },
   {
-    "revision": "c83e7c94fe74ea77460e",
+    "revision": "c346dbfcb94eb5ded1b9",
     "url": "/css/docs.57e1fe0f.css"
   },
   {
-    "revision": "cf88b1694f4c4ad6e97a",
+    "revision": "a05af420b2e66e1ad11d",
     "url": "/css/index.090522ff.css"
   },
   {
@@ -64,12 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo-bootwind-template.d26e9f7e.png"
   },
   {
-    "revision": "2acec82dbb487e2770620501f54dfff9",
+    "revision": "edc778193cd2935259342841c4ac3e15",
     "url": "/index.html"
   },
   {
-    "revision": "7a954aae860ee297fcae",
-    "url": "/js/app.3914b001.js"
+    "revision": "cb0f40b710f0d4291d2b",
+    "url": "/js/app.99db416e.js"
   },
   {
     "revision": "ddfc24d28afa097717d6",
@@ -120,16 +120,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.3eb30486.js"
   },
   {
-    "revision": "9d22c9b9461a7832e3e0",
-    "url": "/js/dashboard-1.aaf765ad.js"
+    "revision": "6fc2430bad11b1a992f3",
+    "url": "/js/dashboard-1.8335c652.js"
   },
   {
-    "revision": "c83e7c94fe74ea77460e",
-    "url": "/js/docs.d4ec9d47.js"
+    "revision": "c346dbfcb94eb5ded1b9",
+    "url": "/js/docs.4a0b4c60.js"
   },
   {
-    "revision": "cf88b1694f4c4ad6e97a",
-    "url": "/js/index.8eb0e4ff.js"
+    "revision": "a05af420b2e66e1ad11d",
+    "url": "/js/index.29601164.js"
   },
   {
     "revision": "92790b0614206278804c",
