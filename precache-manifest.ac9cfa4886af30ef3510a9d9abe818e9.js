@@ -4,24 +4,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/README.md"
   },
   {
-    "revision": "cb0f40b710f0d4291d2b",
-    "url": "/css/app.42c33f0d.css"
+    "revision": "006dfa49b664a221986b",
+    "url": "/css/app.03ea7b57.css"
   },
   {
-    "revision": "6fc2430bad11b1a992f3",
-    "url": "/css/dashboard-1.090522ff.css"
+    "revision": "41460600e9c119704539",
+    "url": "/css/dashboard-1.94836126.css"
   },
   {
-    "revision": "c346dbfcb94eb5ded1b9",
-    "url": "/css/docs.57e1fe0f.css"
+    "revision": "9339b70e153419ba56dc",
+    "url": "/css/docs.0982913d.css"
   },
   {
-    "revision": "a05af420b2e66e1ad11d",
-    "url": "/css/index.090522ff.css"
+    "revision": "f3b42cccccd1ccd0ab30",
+    "url": "/css/index.94836126.css"
   },
   {
-    "revision": "12419de6850612a76f61ddb742f89837",
+    "revision": "4f31c967c426a7c19ef79987ed6e4501",
     "url": "/design/dashboard-1-dark-blue.jpg"
+  },
+  {
+    "revision": "b63417f643282e60b160c55da141bbb0",
+    "url": "/design/dashboard-1-dark.jpg"
+  },
+  {
+    "revision": "5c97a3da19b333f50c057d0337ce1362",
+    "url": "/design/dashboard-1-light.jpg"
   },
   {
     "revision": "c8fac86e1a45f81d60781aa00983523e",
@@ -64,16 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo-bootwind-template.d26e9f7e.png"
   },
   {
-    "revision": "edc778193cd2935259342841c4ac3e15",
+    "revision": "6845d99a6ff3a0bf6716fd85ae39a4ec",
     "url": "/index.html"
   },
   {
-    "revision": "cb0f40b710f0d4291d2b",
-    "url": "/js/app.99db416e.js"
+    "revision": "006dfa49b664a221986b",
+    "url": "/js/app.4b80176a.js"
   },
   {
-    "revision": "ddfc24d28afa097717d6",
-    "url": "/js/c-alert.cc13b4cc.js"
+    "revision": "46ccb03fb6139d6a264e",
+    "url": "/js/c-alert.e4482cc1.js"
   },
   {
     "revision": "550f90a21111f772164d",
@@ -120,16 +128,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-vendors.3eb30486.js"
   },
   {
-    "revision": "6fc2430bad11b1a992f3",
-    "url": "/js/dashboard-1.8335c652.js"
+    "revision": "41460600e9c119704539",
+    "url": "/js/dashboard-1.c47c04ca.js"
   },
   {
-    "revision": "c346dbfcb94eb5ded1b9",
-    "url": "/js/docs.4a0b4c60.js"
+    "revision": "9339b70e153419ba56dc",
+    "url": "/js/docs.fb93ddbd.js"
   },
   {
-    "revision": "a05af420b2e66e1ad11d",
-    "url": "/js/index.29601164.js"
+    "revision": "f3b42cccccd1ccd0ab30",
+    "url": "/js/index.dcbe0fda.js"
   },
   {
     "revision": "92790b0614206278804c",
